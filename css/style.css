@@ -2,6 +2,10 @@
 Author: W3layouts
 Author URL: http://w3layouts.com
 --*/
+video {
+	height: auto;
+	width: 100%;
+	}
 html, body{
     font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
